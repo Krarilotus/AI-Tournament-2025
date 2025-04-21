@@ -28,10 +28,11 @@ Each participant (or participating duo) must submit a **team of two AI character
 
 ### A. Building & Troop Exclusivity
 
-* **Exclusive Buildings:** Beyond Stockpiles, Granaries, and Houses (which both AIs can build), **all other building types are exclusive between partners**. If one AI builds a specific type of building (e.g., Quarries, High Walls, specific Tower types, Gatehouses, Stairs), its partner AI **cannot** build that same type.
+* **Exclusive Buildings:** Apart from Walls, Crenellations, Stairs, Stockpiles, Granaries, recruitment buildings (Engineers’ Guild, Mercenary Post, Barracks) and Houses—​which both AIs may construct—​**all other building types are exclusive to one partner**. If one AI places a particular building type (e.g., a specific tower design or any Gatehouse), its partner AI **may not** place the same type.  
+  * *Note:* This exclusivity applies only to buildings placed via the `.aiv` files; buildings generated through the `.aic` file are exempt and may be used by either AI.
 * **Housing Limit:** The **total** number of houses built by **both** AIs in a team combined cannot exceed **17**.
-* **Exclusive Troop Types:** Troop types are also exclusive between partners. If one AI recruits a specific troop type (e.g., Engineers, Archers, Pikemen), the other AI cannot recruit that type.
-    * *Note:* An AI unable to recruit Engineers cannot build siege engines like catapults or trebuchets.
+* **Exclusive Troop Types:** Troop types are also exclusive between partners. If one AI recruits a specific troop type (e.g., Archers, Pikemen), the other AI cannot recruit that type.
+    * *Note:* Engineers are excluded from this role!
 
 ### B. Wall Defense Limit ("WallDef")
 

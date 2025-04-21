@@ -34,10 +34,10 @@ Jede*r Teilnehmende (oder jedes Zweier‑Team) reicht **ein Team aus zwei KI‑C
 
 ### A. Exklusivität bei Gebäuden & Truppen
 
-* **Exklusive Gebäude:** Abgesehen von Lagerplatz, Getreidespeicher und Häusern (die beide KIs bauen dürfen), sind **alle anderen Gebäudetypen zwischen den Partnern exklusiv**. Baut eine KI beispielsweise Steinbrüche, Hohe Mauern oder bestimmte Turmtypen, darf die Partner‑KI *dieselben Typen* **nicht** errichten.
+* **Exklusive Gebäude:** Abgesehen von Vorratslager, Kornspeicher, Baumeistergilde und Häusern (die beide KIs bauen dürfen), sind **alle anderen Gebäudetypen zwischen den Partnern exklusiv**. Baut eine KI beispielsweise Steinbrüche, Hohe Mauern oder bestimmte Turmtypen, darf die Partner‑KI *dieselben Typen* **nicht** errichten.
 * **Haus‑Limit:** Die **Gesamtzahl** der von *beiden* KIs errichteten Häuser darf **17** nicht überschreiten.
-* **Exklusive Truppentypen:** Auch Truppentypen sind exklusiv. Rekrutiert eine KI Engineers, Archers, Pikemen usw., darf die andere KI diesen Typ **nicht** ausheben.  
-  * *Hinweis:* Kann eine KI keine Engineers rekrutieren, darf sie auch keine Belagerungsgeräte wie Catapults oder Trebuchets bauen.
+* **Exklusive Truppentypen:** Auch Truppentypen sind exklusiv. Rekrutiert eine KI Archers, Pikemen usw., darf die andere KI diesen Typ **nicht** ausheben.
+ * **Hinweis:** Baumeister sind von dieser Exklusivität ausgenommen
 
 ### B. Wall‑Defense‑Limit („WallDef“)
 

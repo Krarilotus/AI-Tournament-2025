@@ -1,0 +1,12 @@
+name: AI-Tournament-2025
+author: Stronghold Basis
+version: 1.0.0
+dependencies:
+  aiSwapper: ^1.1.0
+  startResources: ^1.0.1
+  ai-ox-tethers: ^1.0.2
+  running-units: ^1.0.1
+  ucp2-legacy: ^2.15.1
+  NewBalance-Nevikov: ^1.0.2
+  framework: ">=3.0.7"
+  frontend: ">=1.0.13"

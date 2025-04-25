@@ -34,7 +34,7 @@ Jede*r Teilnehmende (oder jedes Zweier‑Team) reicht **ein Team aus zwei KI‑C
 
 ### A. Exklusivität bei Gebäuden & Truppen
 
-* **Exklusive Gebäude:** Abgesehen von Mauern, Zinnen, Treppen, Vorratslagern, Kornspeichern, Rekrutierungsgebäuden (Baumeistergilde, Söldnerposten, Kaserne) und Häusern – die beide KIs errichten dürfen – ist **jeder andere Gebäudetyp zwischen den Partnern exklusiv**. Baut eine KI einen bestimmten Gebäudetyp (z. B. einen speziellen Turm oder ein Torhaus), darf die Partner‑KI **denselben Typ nicht** bauen.  
+* **Exklusive Gebäude:** Abgesehen von Mauern, Zinnen, Treppen, Vorratslagern, Kornspeichern, und speziellen Rekrutierungsgebäuden (Baumeistergilde, Söldnerposten, Kaserne) und Häusern – die beide KIs errichten dürfen – ist **jeder andere Gebäudetyp zwischen den Partnern exklusiv**. Baut eine KI einen bestimmten Gebäudetyp (z. B. einen speziellen Turm oder ein Torhaus), darf die Partner‑KI **denselben Typ nicht** bauen.  
   * *Hinweis:* Diese Exklusivität gilt nur für Gebäude, die über die `.aiv`‑Dateien platziert werden; Gebäude, die durch die `.aic`‑Datei erzeugt werden, sind davon ausgenommen und dürfen von beiden KIs verwendet werden.
 * **Haus‑Limit:** Die **Gesamtzahl** der von *beiden* KIs errichteten Häuser darf **17** nicht überschreiten.
 * **Exklusive Truppentypen:** Auch Truppentypen sind exklusiv. Rekrutiert eine KI Archers, Pikemen usw., darf die andere KI diesen Typ **nicht** ausheben.

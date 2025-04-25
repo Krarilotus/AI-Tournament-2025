@@ -68,7 +68,8 @@ Jede*r Teilnehmende (oder jedes Zweier‑Team) reicht **ein Team aus zwei KI‑C
 * **Steigende Kosten für Fernkämpfer:** Jeder *Fernkampf*‑Einheit erhöht die Kosten aller folgenden Fernkämpfer um die **Summen der bisherigen Basis‑Kosten**.  
   * *Beispiel 1:* 2 European Archers (1 P), 1 Crossbowman (3 P) → Gesamtkosten **8 Punkte**  
   * *Beispiel 2:* 2 Crossbowmen → **9 Punkte**  
-  * *Beispiel 3:* 2 Arabian Swordsmen, 2 Slingers, 1 Fire Thrower → **10,5 Punkte**
+  * *Beispiel 3:* 2 Arabian Swordsmen, 2 Slingers, 1 Fire Thrower → 1 + 1 + 0.5 + (0.5 + 0.5) + (1 + 6) → **10,5 Punkte**
+
 
 ### D. Exploit‑Vermeidung
 

@@ -42,8 +42,8 @@ Each participant (or participating duo) must submit a **team of two AI character
     * Crossbowmen: **3 points** each
     * Arabian Archers: **2 points** each
     * European Archers: **1 point** each
-    * Armored Melee (Swordsmen, Pikemen, Knights): **1 point** each
-    * Slingers, Macemen, Assassins, Arabian Swordsmen: **0.5 points** each
+    * Armored Melee (Arabian Swordsmen, Swordsmen, Pikemen, Knights): **1 point** each
+    * Slingers, Macemen, Assassins: **0.5 points** each
     * Other Non-Armored Melee (Spearmen, Slaves): **0.25 points** each
 * **Defensive Siege Engine Costs (Base):**
     * Tower-mounted Ballistae/Mangonels: **5 points** each

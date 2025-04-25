@@ -48,8 +48,8 @@ Jede*r Teilnehmende (oder jedes Zweier‑Team) reicht **ein Team aus zwei KI‑C
   * Crossbowmen: **3 Punkte**  
   * Arabian Archers: **2 Punkte**  
   * European Archers: **1 Punkt**  
-  * Armored Melee (Swordsmen, Pikemen, Knights): **1 Punkt**  
-  * Slingers, Macemen, Assassins, Arabian Swordsmen: **0,5 Punkte**  
+  * Armored Melee (Arabian Swordsmen, Swordsmen, Pikemen, Knights): **1 Punkt**  
+  * Slingers, Macemen, Assassins: **0,5 Punkte**  
   * Weitere ungerüstete Nahkämpfer (Spearmen, Slaves): **0,25 Punkte**
 * **Defensive Belagerungsgeräte (Basis):**  
   * Turm‑Ballistae/Mangonels: **5 Punkte**  

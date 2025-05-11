@@ -34,27 +34,28 @@ Jede*r Teilnehmende (oder jedes Zweier‑Team) reicht **ein Team aus zwei KI‑C
 
 ### A. Exklusivität bei Gebäuden & Truppen
 
-* **Exklusive Gebäude:** Abgesehen von Mauern, Zinnen, Treppen, Vorratslagern, Kornspeichern, und speziellen Rekrutierungsgebäuden (Baumeistergilde, Söldnerposten, Kaserne), dem Marktplatz und Häusern – die beide KIs errichten dürfen – ist **jeder andere Gebäudetyp zwischen den Partnern exklusiv**. Baut eine KI einen bestimmten Gebäudetyp (z. B. einen speziellen Turm oder ein Torhaus), darf die Partner‑KI **denselben Typ nicht** bauen.  
+* **Exklusive Gebäude:** Abgesehen von Mauern, Zinnen, Treppen, Vorratslagern, Kornspeichern, Waffenkammern und speziellen Rekrutierungsgebäuden (Baumeistergilde, Söldnerposten, Kaserne), dem Marktplatz und Häusern – die beide KIs errichten dürfen – ist **jeder andere Gebäudetyp zwischen den Partnern exklusiv**. Baut eine KI einen bestimmten Gebäudetyp (z. B. einen speziellen Turm oder ein Torhaus), darf die Partner‑KI **denselben Typ nicht** bauen.  
   * *Hinweis:* Diese Exklusivität gilt nur für Gebäude, die über die `.aiv`‑Dateien platziert werden; Gebäude, die durch die `.aic`‑Datei erzeugt werden, sind davon ausgenommen und dürfen von beiden KIs verwendet werden.
-* **Haus‑Limit:** Die **Gesamtzahl** der von *beiden* KIs errichteten Häuser darf **17** nicht überschreiten.
-* **Exklusive Truppentypen:** Auch Truppentypen sind exklusiv. Rekrutiert eine KI Archers, Pikemen usw., darf die andere KI diesen Typ **nicht** ausheben.
+* **Haus‑Limit:** Die **Gesamtzahl** der von *beiden* KIs errichteten Häuser darf **23** nicht überschreiten.
+* **Exklusive Truppentypen:** Auch Truppentypen sind exklusiv. Rekrutiert eine KI Bogenschützen, Pikeniere usw., darf die andere KI diesen Typ **nicht** ausheben.
  * **Hinweis:** Baumeister sind von dieser Exklusivität ausgenommen
 
 ### B. Wall‑Defense‑Limit („WallDef“)
 
-* Die kombinierte Verteidigungsstärke eines Teams auf Mauern und Türmen ist auf **160 WallDef‑Punkte** begrenzt.
+* Die kombinierte Verteidigungsstärke eines Teams auf Mauern und Türmen ist auf **240 WallDef‑Punkte** begrenzt.
 * **Truppenkosten:**  
-  * Fire Throwers: **6 Punkte**  
-  * Crossbowmen: **3 Punkte**  
-  * Arabian Archers: **2 Punkte**  
-  * European Archers: **1 Punkt**  
-  * Armored Melee (Arabian Swordsmen, Swordsmen, Pikemen, Knights): **1 Punkt**  
-  * Slingers, Macemen, Assassins: **0,5 Punkte**  
-  * Weitere ungerüstete Nahkämpfer (Spearmen, Slaves): **0,25 Punkte**
+  * Feuerwerfer: **6 Punkte**  
+  * Pechkipper: **5 Punkte**  
+  * Armbrustschützen: **3 Punkte**  
+  * Arabische Bogenschützen: **2 Punkte**  
+  * Europäische Bogenschützen: **1 Punkt**  
+  * Gepanzerte Nahkämpfer (Arabische Schwertkämpfer, Schwertkämpfer, Pikeniere, Ritter): **1 Punkt**  
+  * Schleuderschützen, Streikolbenkämpfer, Assassinen: **0,5 Punkte**  
+  * Weitere ungerüstete Nahkämpfer (Speerkämpfer, Sklaven): **0,25 Punkte**
 * **Defensive Belagerungsgeräte (Basis):**  
-  * Turm‑Ballistae/Mangonels: **5 Punkte**  
-  * Boden‑Fire Ballistae: **5 Punkte**  
-  * Boden‑Trebuchets: **3 Punkte**
+  * Turm‑Balliste/Mangen: **5 Punkte**  
+  * Boden‑Feuer Balliste: **5 Punkte**  
+  * Boden‑Triböcke: **3 Punkte**
 * **Steigende Kosten:** Das *n‑te* defensive Belagerungsgerät eines Teams kostet **Basis + (n‑1)** Punkte.  
   * *Beispiel:* 5 vorhandene Geräte → nächstes Boden‑Trebuchet (Basis 3) = 3 + 5 = **8 Punkte**.
 * **Harassing Siege Engines:** Eine KI darf höchstens *so viele* angreifende Belagerungsgeräte bauen wie sie defensive besitzt, **+ 1**.
@@ -66,9 +67,9 @@ Jede*r Teilnehmende (oder jedes Zweier‑Team) reicht **ein Team aus zwei KI‑C
 * Jedes **Team** hat ein Budget von **30 Punkten** (WallDef‑Kosten) für Starttruppen *beider* KIs.
 * **Ausnahme Defensive Challenge:** Im **Defensive Challenge**‑Setup (Phase 1) steht dem Team ein gemeinsames Starttruppen‑Budget von **150 Punkten** zur Verfügung.
 * **Steigende Kosten für Fernkämpfer:** Jeder *Fernkampf*‑Einheit erhöht die Kosten aller folgenden Fernkämpfer um die **Summen der bisherigen Basis‑Kosten**.  
-  * *Beispiel 1:* 2 European Archers (1 P), 1 Crossbowman (3 P) → Gesamtkosten **8 Punkte**  
-  * *Beispiel 2:* 2 Crossbowmen → **9 Punkte**  
-  * *Beispiel 3:* 2 Arabian Swordsmen, 2 Slingers, 1 Fire Thrower → 1 + 1 + 0.5 + (0.5 + 0.5) + (1 + 6) → **10,5 Punkte**
+  * *Beispiel 1:* 2 Europäische Bogenschützen (1 P), 1 Armbrustschütze (3 P) → Gesamtkosten **8 Punkte**  
+  * *Beispiel 2:* 2 Armbrustschützen → **9 Punkte**  
+  * *Beispiel 3:* 2 Arabische Schwertkämpfer, 2 Schleuderschützen, 1 Feuerwerfer → 1 + 1 + 0.5 + (0.5 + 0.5) + (1 + 6) → **10,5 Punkte**
 
 
 ### D. Exploit‑Vermeidung

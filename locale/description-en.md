@@ -28,20 +28,21 @@ Each participant (or participating duo) must submit a **team of two AI character
 
 ### A. Building & Troop Exclusivity
 
-* **Exclusive Buildings:** Apart from Walls, Crenellations, Stairs, Stockpiles, Granaries, recruitment buildings (Engineers’ Guild, Mercenary Post, Barracks), the Marketplace and Houses—​which both AIs may construct—​**all other building types are exclusive to one partner**. If one AI places a particular building type (e.g., a specific tower design or any Gatehouse), its partner AI **may not** place the same type.  
+* **Exclusive Buildings:** Apart from Walls, Crenellations, Stairs, Stockpiles, Granaries, Armories, Recruitment buildings (Engineers’ Guild, Mercenary Post, Barracks), the Marketplace and Houses—​which both AIs may construct—​**all other building types are exclusive to one partner**. If one AI places a particular building type (e.g., a specific tower design or any Gatehouse), its partner AI **may not** place the same type.  
   * *Note:* This exclusivity applies only to buildings placed via the `.aiv` files; buildings generated through the `.aic` file are exempt and may be used by either AI.
-* **Housing Limit:** The **total** number of houses built by **both** AIs in a team combined cannot exceed **17**.
+* **Housing Limit:** The **total** number of houses built by **both** AIs in a team combined cannot exceed **23**.
 * **Exclusive Troop Types:** Troop types are also exclusive between partners. If one AI recruits a specific troop type (e.g., Archers, Pikemen), the other AI cannot recruit that type.
     * *Note:* Engineers are excluded from this role!
 
 ### B. Wall Defense Limit ("WallDef")
 
-* A team's combined defensive troop presence on walls and towers is limited to **160 WallDef points** total.
+* A team's combined defensive troop presence on walls and towers is limited to **240 WallDef points** total.
 * **Troop Costs:**
-    * Fire Throwers: **6 points** each
-    * Crossbowmen: **3 points** each
-    * Arabian Archers: **2 points** each
-    * European Archers: **1 point** each
+    * Fire Throwers: **6 points** each  
+    * Oil Engineers: **5 Punkte** each   
+    * Crossbowmen: **3 points** each  
+    * Arabian Archers: **2 points** each  
+    * European Archers: **1 point** each  
     * Armored Melee (Arabian Swordsmen, Swordsmen, Pikemen, Knights): **1 point** each
     * Slingers, Macemen, Assassins: **0.5 points** each
     * Other Non-Armored Melee (Spearmen, Slaves): **0.25 points** each

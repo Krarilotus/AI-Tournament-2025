@@ -38,10 +38,11 @@ Each participant (or participating duo) must submit a **team of two AI character
 
 * A team's combined defensive troop presence on walls and towers is limited to **160 WallDef points** total.
 * **Troop Costs:**
-    * Fire Throwers: **6 points** each
-    * Crossbowmen: **3 points** each
-    * Arabian Archers: **2 points** each
-    * European Archers: **1 point** each
+    * Fire Throwers: **6 points** each  
+    * Oil Engineers: **5 Punkte** each   
+    * Crossbowmen: **3 points** each  
+    * Arabian Archers: **2 points** each  
+    * European Archers: **1 point** each  
     * Armored Melee (Arabian Swordsmen, Swordsmen, Pikemen, Knights): **1 point** each
     * Slingers, Macemen, Assassins: **0.5 points** each
     * Other Non-Armored Melee (Spearmen, Slaves): **0.25 points** each
